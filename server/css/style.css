@@ -90,6 +90,8 @@ input{
 .recovery {
     margin-top: 15px;
     list-style: none;
+    display: flex;
+    gap: 4px;
 }
 
 .recovery a {
